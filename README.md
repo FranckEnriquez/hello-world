@@ -1,2 +1,2 @@
 # hello-world
-Primer ejemplo de Simulación de Procesos Financieros - Primavera 2020
+Primera rama de hello-world - Primavera 2020
