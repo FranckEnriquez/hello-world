@@ -1,2 +1,6 @@
 # hello-world
-Primer ejemplo de Simulación de Procesos Financieros - Primavera 2020
+
+First branck of hello-world repostory 
+
+
+- Spring 2020
